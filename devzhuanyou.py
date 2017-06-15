@@ -1,4 +1,5 @@
 
 #dev测试是什么
 #dev开发完成
-#devbug修复
+#dev 1.0 bug开始修复
+#dev 1.0 bug修复完成
